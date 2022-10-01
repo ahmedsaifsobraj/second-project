@@ -90,8 +90,10 @@ footer {
     background-color: black;
     color: white;
     margin: 0%;
+    padding: 2%;
 }
 
 footer p {
     text-align: center;
+    font-size: 10px;
 }
